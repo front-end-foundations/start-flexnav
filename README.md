@@ -1,6 +1,6 @@
-# FlexNav
+# FlexNav Daniel
 
-- [FlexNav](#flexnav)
+- [FlexNav Daniel](#flexnav-daniel)
   - [Homework](#homework)
   - [Reading](#reading)
   - [The Terminal](#the-terminal)
